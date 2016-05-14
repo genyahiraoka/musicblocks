@@ -46,7 +46,7 @@ msgid ""
 #: js/activity.js:443
 #: js/activity.js:443
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 #: js/activity.js:1251
 #: js/block.js:629
@@ -79,17 +79,17 @@ msgstr ""
 #: js/basicblocks.js:1197
 #: js/basicblocks.js:1203
 msgid "action"
-msgstr ""
+msgstr "実行"
 
 #: js/activity.js:1934
 #: js/turtledefs.js:79
 msgid "Run fast"
-msgstr ""
+msgstr "早く"
 
 #: js/activity.js:1935
 #: js/turtledefs.js:80
 msgid "Run slow"
-msgstr ""
+msgstr "遅く"
 
 #: js/activity.js:1936
 #: js/turtledefs.js:82
@@ -99,7 +99,7 @@ msgstr ""
 #: js/activity.js:1937
 #: js/turtledefs.js:81
 msgid "Run music slow"
-msgstr ""
+msgstr "音楽をゆっくり"
 
 #: js/activity.js:1938
 #: js/turtledefs.js:83
@@ -109,7 +109,7 @@ msgstr ""
 #: js/activity.js:1939
 #: js/turtledefs.js:84
 msgid "Stop"
-msgstr "ステップ実行"
+msgstr "ストップ"
 
 #: js/activity.js:1940
 #: js/turtledefs.js:85
@@ -119,23 +119,23 @@ msgstr "消去"
 #: js/activity.js:1941
 #: js/turtledefs.js:86
 msgid "Show/hide palettes"
-msgstr ""
+msgstr "パレットを表示/隠す"
 
 #: js/activity.js:1942
 #: js/turtledefs.js:87
 msgid "Show/hide blocks"
-msgstr ""
+msgstr "ブロックを表示/隠す"
 
 #: js/activity.js:1943
 #: js/turtledefs.js:88
 msgid "Expand/collapse collapsable blocks"
-msgstr ""
+msgstr "ブロックを拡大/縮小"
 
 #: js/activity.js:1944
 #: js/activity.js:1985
 #: js/turtledefs.js:89
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: js/activity.js:1945
 #: js/turtledefs.js:90
@@ -145,22 +145,22 @@ msgstr "ヘルプ"
 #: js/activity.js:2012
 #: js/turtledefs.js:92
 msgid "Load samples from server"
-msgstr ""
+msgstr "サーバーからサンプルを読み込む"
 
 #: js/activity.js:2013
 #: js/turtledefs.js:93
 msgid "Load project from files"
-msgstr ""
+msgstr "ファイルからプロジェクトを読み込む"
 
 #: js/activity.js:2014
 #: js/turtledefs.js:94
 msgid "Save project"
-msgstr ""
+msgstr "プロジェクトを保存"
 
 #: js/activity.js:2015
 #: js/turtledefs.js:95
 msgid "Save sheet music"
-msgstr ""
+msgstr "ミュージックシートを保存"
 
 #: js/activity.js:2016
 #: js/turtledefs.js:97
@@ -180,21 +180,21 @@ msgstr ""
 #: js/activity.js:2019
 #: js/turtledefs.js:101
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #: js/activity.js:2020
 #: js/turtledefs.js:107
 msgid "Delete all"
-msgstr ""
+msgstr "全て消去"
 
 #: js/activity.js:2021
 #: js/turtledefs.js:108
 msgid "Undo"
-msgstr ""
+msgstr "元に戻す"
 
 #: js/clearbox.js:46
 msgid "confirm"
-msgstr ""
+msgstr "確認する"
 
 #: js/block.js:558
 #: js/logo.js:1974
@@ -214,12 +214,12 @@ msgstr ""
 #: js/turtle.js:362
 #: js/basicblocks.js:1185
 msgid "start"
-msgstr ""
+msgstr "始める"
 
 #: js/block.js:635
 #: js/turtledefs.js:21
 msgid "matrix"
-msgstr ""
+msgstr "行列"
 
 #: js/block.js:638
 #: js/turtle.js:219
@@ -228,51 +228,51 @@ msgstr ""
 
 #: js/logo.js:24
 msgid "mouse"
-msgstr ""
+msgstr "白ネズミ"
 
 #: js/logo.js:24
 msgid "brown rat"
-msgstr ""
+msgstr "茶ネズミ"
 
 #: js/logo.js:24
 msgid "mole"
-msgstr ""
+msgstr "モグラ"
 
 #: js/logo.js:24
 msgid "chipmunk"
-msgstr ""
+msgstr "シマリス"
 
 #: js/logo.js:24
 msgid "red squirrel"
-msgstr ""
+msgstr "赤リス"
 
 #: js/logo.js:24
 msgid "guinea pig"
-msgstr ""
+msgstr "モルモット"
 
 #: js/logo.js:24
 msgid "capybara"
-msgstr ""
+msgstr "カピバラ"
 
 #: js/logo.js:24
 msgid "coypu"
-msgstr ""
+msgstr "ヌートリア"
 
 #: js/logo.js:24
 msgid "black rat"
-msgstr ""
+msgstr "黒ネズミ"
 
 #: js/logo.js:24
 msgid "grey squirrel"
-msgstr ""
+msgstr "灰色リス"
 
 #: js/logo.js:24
 msgid "flying squirrel"
-msgstr ""
+msgstr "モモンガ"
 
 #: js/logo.js:24
 msgid "bat"
-msgstr ""
+msgstr "コウモリ"
 
 #: js/logo.js:26
 #.TRANS:  Abbreviations for names used in Lilypind output, e.g., m for mouse
@@ -325,11 +325,11 @@ msgstr ""
 
 #: js/logo.js:356
 msgid "true"
-msgstr ""
+msgstr "本当"
 
 #: js/logo.js:358
 msgid "false"
-msgstr ""
+msgstr "うそ"
 
 #: js/logo.js:879
 msgid "Block does not support incrementing."
@@ -338,7 +338,7 @@ msgstr ""
 #: js/logo.js:1453
 #: js/logo.js:1777
 msgid "You must select a file."
-msgstr ""
+msgstr "ファイルを選んでください"
 
 #: js/logo.js:1786
 #: plugins/heap.rtp:96
@@ -356,7 +356,7 @@ msgstr ""
 
 #: js/logo.js:1811
 msgid "404: Page not found"
-msgstr ""
+msgstr "ページが見つかりません"
 
 #: js/logo.js:1835
 msgid "turtleHeaps does not contain a valid heap for"
@@ -404,7 +404,7 @@ msgstr ""
 
 #: js/logo.js:2988
 msgid "My Project"
-msgstr ""
+msgstr "マイプロジェクト"
 
 #: js/logo.js:3363
 msgid "synth cannot play chords."
@@ -434,28 +434,28 @@ msgstr ""
 #: js/matrix.js:222
 #: js/matrix.js:222
 msgid "play"
-msgstr ""
+msgstr "再生する"
 
 #: js/matrix.js:240
 #: js/matrix.js:240
 msgid "save"
-msgstr ""
+msgstr "保存"
 
 #: js/matrix.js:257
 #: js/matrix.js:257
 #: js/basicblocks.js:665
 msgid "clear"
-msgstr ""
+msgstr "消去"
 
 #: js/matrix.js:274
 #: js/matrix.js:274
 msgid "export"
-msgstr ""
+msgstr "エクスポート"
 
 #: js/matrix.js:291
 #: js/matrix.js:291
 msgid "close"
-msgstr ""
+msgstr "閉じる"
 
 #: js/matrix.js:337
 #: js/matrix.js:543
@@ -471,17 +471,17 @@ msgstr ""
 #: js/utilitybox.js:36
 #: js/turtledefs.js:102
 msgid "Decrease block size"
-msgstr ""
+msgstr "ブロックサイズの縮小"
 
 #: js/utilitybox.js:44
 #: js/turtledefs.js:103
 msgid "Increase block size"
-msgstr ""
+msgstr "ブロックサイズの拡大"
 
 #: js/utilitybox.js:52
 #: js/turtledefs.js:104
 msgid "Display statistics"
-msgstr ""
+msgstr "統計値を表示"
 
 #: js/utilitybox.js:60
 #: js/turtledefs.js:105
@@ -491,34 +491,34 @@ msgstr ""
 #: js/utilitybox.js:68
 #: js/turtledefs.js:106
 msgid "Enable scrolling"
-msgstr ""
+msgstr "スクロールできます"
 
 #: js/utilitybox.js:77
 msgid "Disable scrolling"
-msgstr ""
+msgstr "スクロールできません"
 
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 #: js/basicblocks.js:313
 msgid "rhythm"
-msgstr ""
+msgstr "リズム"
 
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 #: js/basicblocks.js:240
 msgid "pitch"
-msgstr ""
+msgstr "ピッチ"
 
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 #: js/basicblocks.js:1354
 msgid "tone"
-msgstr ""
+msgstr "トーン"
 
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 msgid "flow"
-msgstr ""
+msgstr "フロー"
 
 #: js/turtledefs.js:21
 msgid "boxes"
@@ -532,26 +532,26 @@ msgstr ""
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 msgid "pen"
-msgstr ""
+msgstr "ペン"
 
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 msgid "number"
-msgstr ""
+msgstr "数字"
 
 #: js/turtledefs.js:21
 msgid "boolean"
-msgstr ""
+msgstr "ブーリアン"
 
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 msgid "media"
-msgstr ""
+msgstr "メディア"
 
 #: js/turtledefs.js:21
 #: js/analytics.js:104
 msgid "sensors"
-msgstr ""
+msgstr "センサー"
 
 #: js/turtledefs.js:21
 msgid "heap"
@@ -564,7 +564,7 @@ msgstr ""
 
 #: js/turtledefs.js:75
 msgid "Welcome to Music Blocks"
-msgstr ""
+msgstr "Music Blocksへようこそ"
 
 #: js/turtledefs.js:75
 msgid "Music Blocks is a collection of manipulative tools for exploring fundamental musical concepts in an integrative and fun way."
@@ -572,24 +572,24 @@ msgstr ""
 
 #: js/turtledefs.js:76
 msgid "Meet Mr. Mouse!"
-msgstr ""
+msgstr "Mr.マウスに会いましょう！"
 
 #: js/turtledefs.js:76
 msgid "Mr Mouse is our Music Blocks conductor."
-msgstr ""
+msgstr "Mr.マウスがMusic Blocksを案内してくれます"
 
 #: js/turtledefs.js:76
 msgid "Mr Mouse encourages you to explore Music Blocks."
-msgstr ""
+msgstr "Mr.マウスがあなたのMusic Blocksツアーを応援してくれます"
 
 #: js/turtledefs.js:76
 msgid "Let us start our tour!"
-msgstr ""
+msgstr "それではツアーを始めましょう！"
 
 #: js/turtledefs.js:78
 #.TRANS: : Please add commas to list: Matrix, Notes, Tone, Turtle, and more.
 msgid "Palette buttons"
-msgstr ""
+msgstr "パレットボタン"
 
 #: js/turtledefs.js:78
 msgid "This toolbar contains the palette buttons Matrix Notes Tone Turtle and more."
@@ -621,19 +621,19 @@ msgstr ""
 
 #: js/turtledefs.js:84
 msgid "Stop the music (and the turtles)."
-msgstr ""
+msgstr "ミュージック（Turtles)を止める"
 
 #: js/turtledefs.js:85
 msgid "Clear the screen and return the turtles to their initial positions."
-msgstr ""
+msgstr "スクリーンを消して、Turtlesを最初の位置に戻す"
 
 #: js/turtledefs.js:86
 msgid "Hide or show the block palettes."
-msgstr ""
+msgstr "ブロックパレットを隠す/表示"
 
 #: js/turtledefs.js:87
 msgid "Hide or show the blocks and the palettes."
-msgstr ""
+msgstr "ブロックとパレットを隠す/表示"
 
 #: js/turtledefs.js:88
 msgid "Expand or collapse start and action stacks."
